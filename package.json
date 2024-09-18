@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@guna81/react-ticker": "^3.4.1",
     "@plasmicapp/cli": "^0.1.331",
     "@plasmicapp/react-web": "^0.2.351",
     "@plasmicpkgs/plasmic-basic-components": "^0.0.230",
