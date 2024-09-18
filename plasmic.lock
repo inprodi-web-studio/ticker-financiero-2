@@ -1,0 +1,80 @@
+{
+  "projects": [
+    {
+      "projectId": "k6BnBuAUepzRX8Qs2WvkKs",
+      "version": "0.3.0",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "assetId": "k6BnBuAUepzRX8Qs2WvkKs",
+          "type": "projectCss",
+          "checksum": "e1ec850476829c38b0f9b6d4f7ac446a"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+      "version": "3.38.0",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "assetId": "caTPwKxj5ZrD9LQ7DMdK4Z",
+          "type": "projectCss",
+          "checksum": "e1ec850476829c38b0f9b6d4f7ac446a"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "r3ASNrnyvLLLAtDvzUioQ",
+      "version": "4.6.0",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "assetId": "r3ASNrnyvLLLAtDvzUioQ",
+          "type": "projectCss",
+          "checksum": "e1ec850476829c38b0f9b6d4f7ac446a"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "7ohE9m1KJEeAHDFYwqA6ae",
+      "version": "latest",
+      "dependencies": {
+        "r3ASNrnyvLLLAtDvzUioQ": "4.6.0",
+        "caTPwKxj5ZrD9LQ7DMdK4Z": "3.38.0",
+        "k6BnBuAUepzRX8Qs2WvkKs": "0.3.0"
+      },
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "_RL_2khNEBBM",
+          "checksum": "29b31b8240d9d38cc77c6efd1e384885"
+        },
+        {
+          "assetId": "7ohE9m1KJEeAHDFYwqA6ae",
+          "type": "projectCss",
+          "checksum": "aa4cba16db39968a28dd731042436c19"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "SyueVwckDS0Y",
+          "checksum": "38d3b45eb8b9a743168bae9b2f2f5682"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "SyueVwckDS0Y",
+          "checksum": "38d3b45eb8b9a743168bae9b2f2f5682"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.331"
+}
