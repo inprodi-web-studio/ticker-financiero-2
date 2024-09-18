@@ -378,25 +378,6 @@ function PlasmicRaiz__RenderFunc(props) {
               delay={58.56}
               speed={50}
             />
-
-            <Ticker
-              className={classNames("__wab_instance", sty.ticker__e7Itk)}
-              data={(() => {
-                try {
-                  return $state.stocks;
-                } catch (e) {
-                  if (
-                    e instanceof TypeError ||
-                    e?.plasmicType === "PlasmicUndefinedDataError"
-                  ) {
-                    return [];
-                  }
-                  throw e;
-                }
-              })()}
-              delay={87.84}
-              speed={50}
-            />
           </div>
         ) : null}
         <SideEffect
