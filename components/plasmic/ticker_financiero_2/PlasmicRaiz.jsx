@@ -356,7 +356,7 @@ function PlasmicRaiz__RenderFunc(props) {
                   throw e;
                 }
               })()}
-              delay={28.43}
+              delay={28.73}
               speed={50}
             />
 
@@ -375,7 +375,7 @@ function PlasmicRaiz__RenderFunc(props) {
                   throw e;
                 }
               })()}
-              delay={56.86}
+              delay={57.46}
               speed={50}
             />
           </div>
